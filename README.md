@@ -1,5 +1,5 @@
 # React_ToDoApp
-This is a simple React ToDo App
+This is a simple React ToDo App without Database
 
 <p>
 You can run it on your machine after "git clone" it.<br />
